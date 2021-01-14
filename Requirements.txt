@@ -1,5 +1,3 @@
-requests
-lxml
-pandas
-matplotlib
-numpy
+pip install requests
+pip install lxml
+pip install pandas
